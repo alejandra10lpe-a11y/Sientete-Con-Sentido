@@ -900,7 +900,6 @@
       <div class="servicio-card terapia">
         <div class="servicio-top">
           <div class="servicio-icon">🌿</div>
-          <div class="badge-descuento">⭐ 1ª y 2ª sesión con 50% de descuento</div>
         </div>
         <div class="servicio-body">
           <h3>Terapia Psicológica</h3>
@@ -941,7 +940,7 @@
             <li>Materiales incluidos</li>
             <li>Snacks y bebidas ilimitadas</li>
           </ul>
-          <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary" style="background:var(--sage); box-shadow:0 8px 25px rgba(138,158,126,.35);">Más información</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_Uxx1B5FTpph-W4k9s2HBFgOKlGUACK_LKzYgGYKQNpHGag/viewform?usp=header" class="btn-primary" style="background:var(--sage); box-shadow:0 8px 25px rgba(138,158,126,.35);">Más información</a>
         </div>
         <div class="servicio-accent"></div>
       </div>
