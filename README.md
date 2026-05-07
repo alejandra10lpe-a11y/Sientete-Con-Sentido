@@ -912,7 +912,7 @@
           </div>
           <ul class="servicio-includes">
             <li>Sesión individual de 50 minutos</li>
-            <li>Presencial o en línea</li>
+            <li>Presencial o en línea para adultos</li>
             <li>Enfoque Gestalt humanista</li>
           </ul>
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
