@@ -795,8 +795,6 @@
     </h1>
     <p class="hero-subtitle">
       Encuentra el equilibrio entre cuidarte con amor y vivir con conciencia. 
-      Un lugar seguro para pausar, mirarte con compasión y construir una relación 
-      más sana contigo y con tu entorno.
     </p>
     <div class="hero-actions">
       <a href="https://forms.gle/X3PMQz4dAkMQHNr78" class="btn-primary">Quiero Agendar</a>
@@ -811,9 +809,8 @@
         1ª y 2ª<br>sesión
       </div>
       <p class="hero-card-text">
-        "Ser una persona consentida y con sentido es aprender a recibir cuidado y afecto, mientras actúas de manera coherente y responsable contigo."
+        "Ser una persona consentida y con sentido es aprender a recibir cuidado y afecto, mientras actúa de manera coherente y responsable consigo misma."
       </p>
-      <div class="hero-card-name">— Alejandra López</div>
     </div>
   </div>
 </section>
@@ -841,8 +838,8 @@
 
       <p class="section-desc">
         Psicoterapeuta, tanatóloga Gestalt y facilitadora de arteterapia y mindfulness. 
-        La terapia Gestalt, el arteterapia y la meditación se entrelazan en mi trabajo 
-        para apoyar un entendimiento propio desde una mirada compasiva y respetuosa.
+        Mi trabajo se centra en acompañarte
+        para apoyar tu propio entendimiento desde una mirada compasiva.
       </p>
       <p class="section-desc" style="margin-top:1rem;">
         Me emociona acompañarte en tu proceso con claridad, amabilidad y respeto 
@@ -859,7 +856,6 @@
         <div class="credencial-item"><span></span>Diplomado en Tanatología</div>
         <div class="credencial-item"><span></span>Diplomado en Trastornos Depresivos</div>
         <div class="credencial-item"><span></span>Diplomado en Ansiedad y Suicidio</div>
-        <div class="credencial-item"><span></span>Estimulación Temprana</div>
       </div>
 
       <div class="nota-personal">
@@ -903,7 +899,7 @@
         </div>
         <div class="servicio-body">
           <h3>Terapia Psicológica</h3>
-          <p>Un espacio individual, presencial o en línea, para explorar lo que te mueve, 
+          <p>Un espacio seguro para explorar lo que te mueve, 
           escucharte con mayor profundidad y caminar hacia tu bienestar.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
@@ -927,7 +923,7 @@
         </div>
         <div class="servicio-body">
           <h3>Arte Terapia y Mindfulness <em style="font-size:1rem; color:var(--muted);">(próximamente...)</em></h3>
-          <p>Talleres grupales íntimos de hasta 6 personas. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p>
+          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
             <div class="precio-num">$350</div>
@@ -987,7 +983,7 @@
 
         <div class="faq-item">
           <button class="faq-question" onclick="toggleFaq(this)">
-            ¿Qué se espera de mí como paciente?
+            ¿Qué importante para empezar tu proceso?
             <span class="faq-icon">+</span>
           </button>
           <div class="faq-answer">
@@ -1007,17 +1003,7 @@
 
         <div class="faq-item">
           <button class="faq-question" onclick="toggleFaq(this)">
-            ¿Las sesiones son presenciales o en línea?
-            <span class="faq-icon">+</span>
-          </button>
-          <div class="faq-answer">
-            <p>La terapia individual está disponible tanto presencial como en línea, según lo que sea más cómodo para ti. Las sesiones de arte terapia son presenciales para vivir plenamente la experiencia creativa y grupal.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <button class="faq-question" onclick="toggleFaq(this)">
-            ¿Cómo sé si la terapia Gestalt es para mí?
+            ¿Qué es la Terapia Gestalt? ¿Cómo sé si es para mí?
             <span class="faq-icon">+</span>
           </button>
           <div class="faq-answer">
