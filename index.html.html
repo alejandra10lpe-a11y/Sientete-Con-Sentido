@@ -907,7 +907,7 @@
           escucharte con mayor profundidad y caminar hacia tu bienestar.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
-            <div class="precio-num">$400</div>
+            <div class="precio-num">$500</div>
             <div class="precio-label">por sesión</div>
           </div>
           <ul class="servicio-includes">
@@ -930,7 +930,7 @@
           <p>Talleres grupales íntimos de hasta 6 personas. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
-            <div class="precio-num">$400</div>
+            <div class="precio-num">$350</div>
             <div class="precio-label">por persona</div>
           </div>
           <ul class="servicio-includes">
