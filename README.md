@@ -903,7 +903,7 @@
           escucharte con mayor profundidad y caminar hacia tu bienestar.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
-            <div class="precio-num">$500</div>
+            <div class="precio-num">$450</div>
             <div class="precio-label">por sesión</div>
           </div>
           <ul class="servicio-includes">
@@ -977,13 +977,13 @@
             <span class="faq-icon">+</span>
           </button>
           <div class="faq-answer">
-            <p>La primera sesión es un espacio para conocernos. Quisiera entender mejor quién eres, qué te trae a consulta y qué necesitas. No hay ninguna prisa. Vamos a tu ritmo y no tienes que contar todo ese día.</p>
+            <p>La primera sesión es un espacio para conocernos. Quisiera entender mejor quién eres, qué te trae a consulta y qué necesitas.</p>
           </div>
         </div>
 
         <div class="faq-item">
           <button class="faq-question" onclick="toggleFaq(this)">
-            ¿Qué importante para empezar tu proceso?
+            ¿Qué es importante para empezar tu proceso?
             <span class="faq-icon">+</span>
           </button>
           <div class="faq-answer">
@@ -1007,7 +1007,7 @@
             <span class="faq-icon">+</span>
           </button>
           <div class="faq-answer">
-            <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio — esta terapia puede ser para ti. Si tienes dudas, escríbeme.</p>
+            <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio.</p>
           </div>
         </div>
 
