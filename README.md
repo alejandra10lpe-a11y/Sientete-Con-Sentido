@@ -809,7 +809,7 @@
         1ª y 2ª<br>sesión
       </div>
       <p class="hero-card-text">
-        "Ser una persona consentida y con sentido es aprender a recibir cuidado y afecto, mientras actúa de manera coherente y responsable consigo misma."
+        "Encuentra un equilibrio entre cuidarte y vivir desde la conciencia y el amor"
       </p>
     </div>
   </div>
