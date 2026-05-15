@@ -809,7 +809,7 @@
         1ª y 2ª<br>sesión
       </div>
       <p class="hero-card-text">
-        "Encuentra un equilibrio entre cuidarte y vivir desde la conciencia y el amor"
+        "Ser amable contigo te ayuda a alcanzar tu metas sin perderte en el camino."
       </p>
     </div>
   </div>
