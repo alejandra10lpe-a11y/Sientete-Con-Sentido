@@ -809,7 +809,7 @@
         1ª y 2ª<br>sesión
       </div>
       <p class="hero-card-text">
-        "Ser amable contigo te ayuda a alcanzar tu metas sin perderte en el camino."
+        "Ser amable contigo te ayuda a alcanzar tus metas sin perderte en el camino."
       </p>
     </div>
   </div>
