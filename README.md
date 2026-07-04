@@ -883,11 +883,11 @@
           <div class="stat-item">
             <span class="stat-num">2</span>
             <span class="stat-label">Modalidades</span>
-          </div>
-        </div>
-      
-   </div>
-</section> 
+      </div>
+    </div>
+
+  </div>
+</section>
 
       <!-- Terapia Individual -->
       <div class="servicio-card terapia">
@@ -909,8 +909,11 @@
         <div class="servicio-accent"></div>
        </div>
        
- </div>
-</section> 
+      </div>
+    </div>
+
+  </div>
+</section>
 
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
 <section id="proceso">
@@ -975,11 +978,9 @@
           </button>
           <div class="faq-answer">
             <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio.</p>
-          </div>
-        </div>
-
       </div>
- 
+    </div>
+
   </div>
 </section>
 
