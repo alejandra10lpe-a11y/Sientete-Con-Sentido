@@ -906,11 +906,11 @@
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
         </div>
         <div class="servicio-accent"></div>
-       </div>
-       
-     </div>
-  </section>
-  
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
 <section id="proceso">
   <div class="proceso-inner">
@@ -974,8 +974,12 @@
           </button>
           <div class="faq-answer">
             <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio.</p>
+          </div>
+        </div>
+
       </div>
-</section>
+    </div>
+  </div>
 
 <!-- psico.mx badge -->
 <div id="box" align="center" style="padding: 1.5rem 0; background: var(--cream); display:flex; justify-content:center; align-items:center; gap:1.5rem; flex-wrap:wrap;">
@@ -988,7 +992,7 @@
     </div>
   </div>
 </section>
-  
+
 <!-- CONTACTO -->
 <section id="contacto">
   <div class="contacto-content">
@@ -1014,6 +1018,7 @@
       <div class="contacto-extra-item"><span>🌿</span> Respuesta en menos de 24h</div>
       <div class="contacto-extra-item"><span>💻</span> Sesiones presenciales y en línea</div>
       <div class="contacto-extra-item"><span>🔒</span> Espacio seguro y confidencial</div>
+     
     </div>
   </div>
 </section>
@@ -1036,4 +1041,5 @@
     if (!isOpen) item.classList.add('open');
   }
 </script>
-
+</body>
+</html>
