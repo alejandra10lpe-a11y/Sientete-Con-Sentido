@@ -788,7 +788,7 @@
 <!-- HERO -->
 <section class="hero" id="inicio">
   <div class="hero-text">
-    <div class="hero-eyebrow">Terapia Gestalt · Arteterapia · Tanatología</div>
+    <div class="hero-eyebrow">Terapia Gestalt · Tanatología</div>
     <h1 class="hero-title">
       Un espacio para<br>
       <em>sentirte</em>, escucharte y caminar<br><em>con sentido</em>
@@ -837,7 +837,7 @@
       <h2 class="section-title">Hola, soy <em>Ana Alejandra López</em></h2>
 
       <p class="section-desc">
-        Psicoterapeuta, tanatóloga Gestalt y facilitadora de arteterapia y mindfulness. 
+        Psicoterapeuta tanatóloga Gestalt. 
         Mi trabajo se centra en acompañarte
         para apoyar tu propio entendimiento desde una mirada compasiva.
       </p>
@@ -910,7 +910,6 @@
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
         </div>
         <div class="servicio-accent"></div>
-</section>
 
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
 <section id="proceso">
@@ -1040,6 +1039,4 @@
     if (!isOpen) item.classList.add('open');
   }
 </script>
-</body>
-</html>
 
