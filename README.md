@@ -837,9 +837,8 @@
       <h2 class="section-title">Hola, soy <em>Ana Alejandra López</em></h2>
 
       <p class="section-desc">
-        Psicoterapeuta tanatóloga Gestalt. 
-        Mi trabajo se centra en acompañarte
-        para apoyar tu propio entendimiento desde una mirada compasiva.
+        Psicoterapeuta tanatóloga Gestalt. Mi trabajo se centra en acompañarte
+        para apoyar tu propio entendimiento desde una mirada compasiva, utilizando técnicas de mindflness y arte.
       </p>
       <p class="section-desc" style="margin-top:1rem;">
         Me emociona acompañarte en tu proceso con claridad, amabilidad y respeto 
