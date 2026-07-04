@@ -901,10 +901,6 @@
           <h3>Terapia Psicológica</h3>
           <p>Un espacio seguro para explorar lo que te mueve, 
           escucharte con mayor profundidad y caminar hacia tu bienestar.</p>
-          <div class="servicio-divider"></div>
-          <div class="servicio-precio">
-            <div class="precio-num">$450</div>
-            <div class="precio-label">por sesión</div>
           </div>
           <ul class="servicio-includes">
             <li>Sesión individual de 50 minutos</li>
@@ -923,11 +919,7 @@
         </div>
         <div class="servicio-body">
           <h3>Arte Terapia y Mindfulness <em style="font-size:1rem; color:var(--muted);">(próximamente...)</em></h3>
-          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p>
-          <div class="servicio-divider"></div>
-          <div class="servicio-precio">
-            <div class="precio-num">$350</div>
-            <div class="precio-label">por persona</div>
+          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p
           </div>
           <ul class="servicio-includes">
             <li>Grupos de hasta 6 personas</li>
