@@ -883,13 +883,13 @@
           <div class="stat-item">
             <span class="stat-num">2</span>
             <span class="stat-label">Modalidades</span>
-      </div>
-   </div>
+         </div>
       </div>
   </section>
 
       <!-- Terapia Individual -->
-      <div class="servicio-card terapia">
+        <div align="center">
+        <div class="servicio-card terapia">
         <div class="servicio-top">
           <div class="servicio-icon">🌿</div>
         </div>
@@ -954,16 +954,6 @@
           </button>
           <div class="faq-answer">
             <p>Lo más importante es la honestidad: contigo mismo y con tu terapeuta. El consultorio es un espacio completamente seguro, sin juicios. Si no entiendes algo, pregunta siempre; es tu proceso y mereces claridad en cada momento.</p>
-          </div>
-        </div>
-
-        <div class="faq-item">
-          <button class="faq-question" onclick="toggleFaq(this)">
-            ¿Cómo son las sesiones de arte terapia?
-            <span class="faq-icon">+</span>
-          </button>
-          <div class="faq-answer">
-            <p>Son talleres grupales íntimos de 6 personas. A través de actividades artísticas y creativas podrás expresar tus emociones, conectar contigo mismo/a y relajarte. Puedes compartir con el grupo si lo deseas, pero no es necesario. Te permitirá conocerte mejor y olvidarte por un momento de tus actividades cotidianas.</p>
           </div>
         </div>
 
