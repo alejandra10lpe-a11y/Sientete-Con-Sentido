@@ -872,8 +872,7 @@
     <div class="servicios-header">
       <div>
         <div class="section-label">Servicios</div>
-        <h2 class="section-title">¿Qué forma de <em>acompañamiento</em> necesitas hoy?</h2>
-        <p class="section-desc">Cada persona es única. Elige el camino que resuene contigo.</p>
+        <h2 class="section-title">¿Es la forma de <em>acompañamiento</em> que necesitas hoy?</h2>
       </div>
       <div class="servicios-header-right">
         <div class="servicios-stats">
@@ -909,6 +908,7 @@
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
         </div>
         <div class="servicio-accent"></div>
+     
      </div>
 </section> 
 
@@ -980,6 +980,7 @@
 
       </div>
     </div>
+ 
   </div>
 </section>
 
