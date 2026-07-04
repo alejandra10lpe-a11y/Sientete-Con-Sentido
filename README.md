@@ -885,8 +885,8 @@
             <span class="stat-label">Modalidades</span>
           </div>
         </div>
-      </div>
-    </div>
+      
+  </div>
 </section> 
 
       <!-- Terapia Individual -->
@@ -909,7 +909,7 @@
         <div class="servicio-accent"></div>
        </div>
        
-     </div>
+  </div>
 </section> 
 
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
@@ -979,7 +979,6 @@
         </div>
 
       </div>
-    </div>
  
   </div>
 </section>
