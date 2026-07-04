@@ -838,7 +838,7 @@
 
       <p class="section-desc">
         Psicoterapeuta tanatóloga Gestalt. Mi trabajo se centra en acompañarte
-        para apoyar tu propio entendimiento desde una mirada compasiva, utilizando técnicas de mindflness y arte.
+        para apoyar tu propio entendimiento desde una mirada compasiva, utilizando técnicas de mindfulness y arte.
       </p>
       <p class="section-desc" style="margin-top:1rem;">
         Me emociona acompañarte en tu proceso con claridad, amabilidad y respeto 
@@ -887,8 +887,7 @@
         </div>
       </div>
     </div>
-
-    <div class="servicios-grid">
+</section> 
 
       <!-- Terapia Individual -->
       <div class="servicio-card terapia">
@@ -908,7 +907,8 @@
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
         </div>
         <div class="servicio-accent"></div>
-     
+       </div>
+       
      </div>
 </section> 
 
