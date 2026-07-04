@@ -910,8 +910,6 @@
           <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
         </div>
         <div class="servicio-accent"></div>
-      </div>
-  </div>
 </section>
 
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
@@ -1006,7 +1004,7 @@
     </p>
     <div class="contacto-btns">
       <p style="color:rgba(255,255,255,.75); font-size:.95rem; font-weight:300; margin-bottom:1.25rem;">
-        Envíame un mensaje al siguiente correo:
+        Envíame un mensaje por correo o google chat:
       </p>
       <a href="mailto:psic.alejandralp16@gmail.com" style="display:inline-flex; align-items:center; gap:.85rem; background:rgba(255,255,255,.08); border:1.5px solid rgba(255,255,255,.2); border-radius:1rem; padding:1rem 1.75rem; text-decoration:none; transition: background .3s, border-color .3s;" onmouseover="this.style.background='rgba(255,255,255,.14)'; this.style.borderColor='rgba(255,255,255,.4)'" onmouseout="this.style.background='rgba(255,255,255,.08)'; this.style.borderColor='rgba(255,255,255,.2)'">
         <span style="width:44px; height:44px; border-radius:.75rem; background:var(--rose); display:flex; align-items:center; justify-content:center; flex-shrink:0; font-size:1.3rem;">✉️</span>
