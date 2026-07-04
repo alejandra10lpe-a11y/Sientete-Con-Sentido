@@ -886,8 +886,8 @@
           </div>
         </div>
       
-                </div>
-           </section> 
+   </div>
+</section> 
 
       <!-- Terapia Individual -->
       <div class="servicio-card terapia">
@@ -981,7 +981,7 @@
       </div>
  
   </div>
-           </section>
+</section>
 
 <!-- psico.mx badge -->
 <div id="box" align="center" style="padding: 1.5rem 0; background: var(--cream); display:flex; justify-content:center; align-items:center; gap:1.5rem; flex-wrap:wrap;">
