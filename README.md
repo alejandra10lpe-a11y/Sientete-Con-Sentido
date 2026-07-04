@@ -832,7 +832,7 @@ Humanista
 <!-- Columna texto -->
 <div class="sobre-texto-col">
 <div class="section-label">Sobre mí</div>
-<h2 class="section-title">Hola, soy <em>Ana Alejandra López</em></h2>
+<h2 class="section-title">Hola, soy <em>Alejandra López</em></h2>
 
 <p class="section-desc">
 Psicoterapeuta y tanatóloga Gestalt. En mi trabajo utilizo técnicas de arte
