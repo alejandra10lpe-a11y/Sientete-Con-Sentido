@@ -885,6 +885,8 @@
             <span class="stat-label">Modalidades</span>
       </div>
    </div>
+      </div>
+  </section>
 
       <!-- Terapia Individual -->
       <div class="servicio-card terapia">
@@ -905,8 +907,10 @@
         </div>
         <div class="servicio-accent"></div>
        </div>
- </section>
-
+       
+     </div>
+  </section>
+  
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
 <section id="proceso">
   <div class="proceso-inner">
@@ -981,8 +985,10 @@
   <a href="https://psicologosmexico.mx/#790" title="psicologos-en-ciudad-de-mexico-cdmx" rel="nofollow">
     <img src="https://psicologosmexico.mx/certified/psiguide-expert-s.png" alt="psicologos-en-ciudad-de-mexico-cdmx" border="0">
   </a>
+    </div>
   </div>
 </section>
+  
 <!-- CONTACTO -->
 <section id="contacto">
   <div class="contacto-content">
