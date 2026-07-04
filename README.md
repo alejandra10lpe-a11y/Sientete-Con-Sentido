@@ -919,8 +919,9 @@
         </div>
         <div class="servicio-body">
           <h3>Arte Terapia y Mindfulness <em style="font-size:1rem; color:var(--muted);">(próximamente...)</em></h3>
-          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p
+          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento. </p>
           </div>
+          
           <ul class="servicio-includes">
             <li>Grupos de hasta 6 personas</li>
             <li>Modalidad presencial</li>
