@@ -909,7 +909,7 @@
        
       </div>
     </div>
-  </section>
+ </section>
 
 <!-- ═══ PREGUNTAS FRECUENTES ═══ -->
 <section id="proceso">
@@ -976,7 +976,7 @@
             <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio.</p>
       </div>
     </div>
- </section>
+</section>
 
 <!-- psico.mx badge -->
 <div id="box" align="center" style="padding: 1.5rem 0; background: var(--cream); display:flex; justify-content:center; align-items:center; gap:1.5rem; flex-wrap:wrap;">
