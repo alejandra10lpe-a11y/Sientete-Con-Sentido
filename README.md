@@ -911,30 +911,6 @@
         </div>
         <div class="servicio-accent"></div>
       </div>
-
-      <!-- Arte Terapia — puedes agregar aquí una segunda card -->
-      <div class="servicio-card arteterapia">
-        <div class="servicio-top">
-          <div class="servicio-icon">🎨</div>
-        </div>
-        <div class="servicio-body">
-          <h3>Arte Terapia y Mindfulness <em style="font-size:1rem; color:var(--muted);">(próximamente...)</em></h3>
-          <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento. </p>
-          </div>
-          
-          <ul class="servicio-includes">
-            <li>Grupos de hasta 6 personas</li>
-            <li>Modalidad presencial</li>
-            <li>No se necesita experiencia artística</li>
-            <li>Materiales incluidos</li>
-            <li>Snacks y bebidas ilimitadas</li>
-          </ul>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_Uxx1B5FTpph-W4k9s2HBFgOKlGUACK_LKzYgGYKQNpHGag/viewform?usp=header" class="btn-primary" style="background:var(--sage); box-shadow:0 8px 25px rgba(138,158,126,.35);">Más información</a>
-        </div>
-        <div class="servicio-accent"></div>
-      </div>
-
-    </div>
   </div>
 </section>
 
