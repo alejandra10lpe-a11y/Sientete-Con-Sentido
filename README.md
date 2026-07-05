@@ -805,9 +805,8 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="hero-visual">
 <div class="hero-card">
 <p class="hero-card-text">
-"La congruencia de los pensamientos, emociones y acciones lleva a la autenticidad del ser."
+"La congruencia entre el pensamiento, la emoción y y la acción lleva a la autenticidad del ser."
 </p>
-<div class="hero-card-name">— Alejandra López</div>
 </div>
 </div>
 </section>
