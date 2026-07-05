@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -895,7 +895,8 @@ En mi vida personal, el arte y la meditación me mantienen conectada y en equili
 <div class="servicio-card terapia">
 <div class="servicio-top">
 <div class="servicio-icon">🌿</div>
-<div class="badge-descuento">⭐ 1ª y 2ª sesión con 50% de descuento</div>
+<div class="badge-descuento">⭐ 1ª y 2ª sesión 
+  con 50% de descuento</div>
 </div>
 <div class="servicio-body">
 <h3>Terapia Psicológica</h3>
