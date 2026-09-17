@@ -943,6 +943,16 @@ En mi vida personal, el arte y la meditación me mantienen conectada y en equili
 
 <div class="faq-item open">
 <button class="faq-question" onclick="toggleFaq(this)">
+¿Cuál es el costo de las sesiones terapeúticas?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>El costo por sesión es de $600 (pesos mexicanos). Sin embargo, la primera y segunda sesión tienen un 50% de descuento debido a que se realizará una entrevista inicial y se aclararán cuestiones del tratamiento y la metodología. Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
+</div>
+</div>
+
+<div class="faq-item open">
+<button class="faq-question" onclick="toggleFaq(this)">
 ¿Qué pasa en la primera sesión?
 <span class="faq-icon">+</span>
 </button>
