@@ -857,7 +857,7 @@ profundo por quien eres.
 </div>
 
 <div class="nota-personal">
-En mi vida personal, el arte y la meditación me mantienen conectada y en equilibrio. Creo profundamente en vivir lo que comparto.
+Especializada en depresión, ansiedad, duelo, adaptación cultural y al cambio. 
 </div>
 </div>
 
