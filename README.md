@@ -947,7 +947,7 @@ Especializada en depresión, ansiedad, duelo, adaptación cultural y al cambio.
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>El costo por sesión es de $600 (pesos mexicanos). Sin embargo, la primera y segunda sesión tienen un 50% de descuento debido a que se realizará una entrevista inicial y se aclararán cuestiones del tratamiento y la metodología. Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
+<p>El costo por sesión es de $500 (pesos mexicanos). Sin embargo, la primera y segunda sesión tienen un 50% de descuento debido a que se realizará una entrevista inicial y se aclararán cuestiones del tratamiento y la metodología. Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
 </div>
 </div>
 
@@ -988,6 +988,16 @@ Especializada en depresión, ansiedad, duelo, adaptación cultural y al cambio.
 </button>
 <div class="faq-answer">
 <p>La terapia Gestalt es para quien quiera escucharse, entenderse mejor y mejorar su relación consigo misma/o y con los demás. Si quieres tratarte con compasión, tomar decisiones más alineadas, o atravesar momentos de crisis, duelo o cambio — esta terapia puede ser para ti. Si tienes dudas, escríbeme.</p>
+</div>
+</div>
+
+<div class="faq-item open">
+<button class="faq-question" onclick="toggleFaq(this)">
+¿Ofrece talleres grupales? ¿Quiénes pueden asistir?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>Sí, se imparten talleres grupales íntimos, de 5 personas. Existen 3 enfoques: 1.Para personas que han sufrido una pérdida significativa; 2. Para personas que cuidan-prevención del burnout (mamá, papá, cuidadores de adulto mayor, enfermer@s, etc.) y 3.Para personas que buscan un momento para ellas mismas, salir de la rutina y descubrir algo nuevo. PREGUNTA POR PRECIOS, FECHAS Y DISPONIBILIDAD SI TE INTERESA ALGUN TEMA. </p>
 </div>
 </div>
 
