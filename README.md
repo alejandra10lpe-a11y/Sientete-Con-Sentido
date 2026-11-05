@@ -1258,19 +1258,20 @@ Envíame un mensaje por correo o Google Chat:
 <input type="hidden" name="_template" value="table">
 <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
 
-<div class="form-group">
-<label for="nombre">Nombre</label>
-<input type="text" id="nombre" name="Nombre" placeholder="Tu nombre" required>
-</div>
-<div class="form-group">
-<label for="correo">Correo electrónico</label>
-<input type="email" id="correo" name="email" placeholder="tucorreo@ejemplo.com" required>
-</div>
-<div class="form-group">
-<label for="mensaje">Preguntas o comentarios</label>
-<textarea id="mensaje" name="Preguntas o comentarios" placeholder="Sobre sesiones terapéuticas, mini-talleres o talleres expresivos..." required></textarea>
-</div>
-<button type="submit" class="form-submit">Enviar mensaje</button>
+<form
+  action="https://formspree.io/f/xaeekapa"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 <div class="contacto-extras">
