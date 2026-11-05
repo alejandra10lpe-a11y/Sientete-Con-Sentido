@@ -524,7 +524,106 @@ background: linear-gradient(90deg, var(--rose), var(--blush));
 .arteterapia .servicio-accent {
 background: linear-gradient(90deg, var(--sage), var(--sage-light));
 }
+/* SECCIÓN SOBRE MÍ */
 
+.sobre-mi {
+    background-color: #f8f6f2;
+    padding: 90px 8%;
+}
+
+.sobre-mi-container {
+    max-width: 1150px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 75px;
+}
+
+/* FOTOGRAFÍA */
+
+.sobre-mi-foto {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.sobre-mi-foto img {
+    width: 100%;
+    max-width: 390px;
+    height: 480px;
+    object-fit: cover;
+    object-position: center 35%;
+    border-radius: 180px 180px 12px 12px;
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.10);
+}
+
+/* TEXTO */
+
+.sobre-mi-texto {
+    flex: 1;
+    max-width: 500px;
+}
+
+.subtitulo {
+    color: #a58b70;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.sobre-mi-texto h2 {
+    font-family: Georgia, serif;
+    font-size: 46px;
+    font-weight: normal;
+    color: #34312e;
+    margin: 18px 0;
+}
+
+.linea-decorativa {
+    width: 65px;
+    height: 2px;
+    background-color: #b49a7b;
+    margin-bottom: 28px;
+}
+
+.sobre-mi-texto p {
+    color: #69645e;
+    font-size: 16px;
+    line-height: 1.9;
+    margin-bottom: 18px;
+}
+
+/* DISEÑO RESPONSIVE */
+
+@media (max-width: 768px) {
+
+    .sobre-mi {
+        padding: 60px 7%;
+    }
+
+    .sobre-mi-container {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .sobre-mi-foto img {
+        max-width: 290px;
+        height: 360px;
+    }
+
+    .sobre-mi-texto {
+        text-align: center;
+    }
+
+    .sobre-mi-texto h2 {
+        font-size: 36px;
+    }
+
+    .linea-decorativa {
+        margin: 0 auto 25px;
+    }
+}
 /* ═══════════════════════════════════════════════════
 FAQ — Rediseñado
 ═══════════════════════════════════════════════════ */
@@ -908,8 +1007,8 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-card terapia">
 <div class="servicio-top">
 <div class="servicio-icon">🌿</div>
-<div class="badge-descuento">⭐ 1ª y 2ª sesión 
-  con 50% de descuento</div>
+<div class="badge-descuento">⭐50% en 
+  la 1era sesión</div>
 </div>
 <div class="servicio-body">
 <h3>Terapia Psicológica</h3>
@@ -929,7 +1028,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-card terapia">
 <div class="servicio-top">
 <div class="servicio-icon">🌸</div>
-<div class="badge-descuento">💻 Online</div>
+<div class="badge-descuento">💻Online</div>
 </div>
 <div class="servicio-body">
 <h3>Mini-talleres</h3>
@@ -950,7 +1049,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-card arteterapia">
 <div class="servicio-top">
 <div class="servicio-icon">🎨</div>
-<div class="badge-descuento">📍 Presencial CDMX</div>
+<div class="badge-descuento">📍Presencial CDMX</div>
 </div>
 <div class="servicio-body">
 <h3>Talleres expresivos con arte</h3>
@@ -1067,13 +1166,15 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 
 
 <!-- Columna foto -->
-<div class="sobre-foto-col">
-<div class="sobre-foto-frame">
-<!-- IMPORTANTE: reemplaza src por tu foto original (base64) o por la ruta de tu archivo -->
-<img src="foto-alejandra.jpg" alt="Ana Alejandra López" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+<!-- Fotografía -->
+        <div class="sobre-mi-foto">
+            <img src="images/mi-foto.jpg"
+                 alt="Fotografía de perfil">
+        </div>
+        
 <div class="sobre-foto-placeholder" style="display:none;">🌿</div>
 <div class="sobre-pill">
-<strong>Enfoque Gestalt</strong>
+<strong> Enfoque Gestalt</strong>
 Humanista
 </div>
 </div>
