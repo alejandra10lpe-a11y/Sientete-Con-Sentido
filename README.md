@@ -1249,29 +1249,12 @@ Envíame un mensaje por correo o Google Chat:
 </a>
 </div>
 
-<!-- Formulario: las respuestas llegan a aalopp140@gmail.com -->
-<form class="contacto-form" action="https://formsubmit.co/aalopp140@gmail.com" method="POST">
+<!-- Acceso al formulario de Google -->
+<div class="contacto-form">
 <h3>Déjame tus datos y dudas</h3>
-<p class="form-intro">Escribe tus preguntas o comentarios sobre las sesiones terapéuticas, mini-talleres o talleres expresivos y te responderé lo antes posible.</p>
-
-<input type="hidden" name="_subject" value="Nuevo mensaje desde Siéntete ConSentido">
-<input type="hidden" name="_template" value="table">
-<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
-
-<div class="form-group">
-<label for="nombre">Nombre</label>
-<input type="text" id="nombre" name="Nombre" placeholder="Tu nombre" required>
+<p class="form-intro">Si tienes preguntas o deseas solicitar más información sobre las sesiones terapéuticas, mini-talleres o talleres expresivos, completa el siguiente formulario. Me pondré en contacto contigo lo antes posible.</p>
+<a class="form-submit" href="https://forms.gle/ucynAWJvVhy3H9sm6" target="_blank" rel="noopener noreferrer" style="display:block; text-align:center; text-decoration:none; box-sizing:border-box;">Abrir formulario de contacto</a>
 </div>
-<div class="form-group">
-<label for="correo">Correo electrónico</label>
-<input type="email" id="correo" name="email" placeholder="tucorreo@ejemplo.com" required>
-</div>
-<div class="form-group">
-<label for="mensaje">Preguntas o comentarios</label>
-<textarea id="mensaje" name="Preguntas o comentarios" placeholder="Sobre sesiones terapéuticas, mini-talleres o talleres expresivos..." required></textarea>
-</div>
-<button type="submit" class="form-submit">Enviar mensaje</button>
-</form>
 
 <div class="contacto-extras">
 <div class="contacto-extra-item"><span>🌿</span> Respuesta en menos de 24h</div>
