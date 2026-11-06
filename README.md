@@ -937,6 +937,449 @@ footer { padding: 2rem; flex-direction: column; align-items: flex-start; }
 .servicio-body { padding: 1.5rem 1.5rem 2rem; }
 .contacto-form { padding: 1.5rem; }
 }
+
+/* =========================================================
+   AJUSTES FINALES DE DISEÑO RESPONSIVE
+   Se agregan al final para corregir y unificar los estilos
+   anteriores sin alterar el contenido de la página.
+   ========================================================= */
+
+html {
+  scroll-padding-top: 100px;
+}
+
+body {
+  width: 100%;
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a, button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+section[id] {
+  scroll-margin-top: 90px;
+}
+
+/* Navegación y contenedores generales */
+nav {
+  width: 100%;
+  gap: 1.25rem;
+}
+
+.hero,
+#servicios,
+#sobre-mi,
+#proceso,
+#contacto {
+  width: 100%;
+}
+
+.hero {
+  min-height: min(100vh, 900px);
+}
+
+.hero-text,
+.hero-visual,
+.sobre-texto-col,
+.sobre-foto-col,
+.servicios-inner,
+.proceso-inner,
+.contacto-content {
+  min-width: 0;
+}
+
+/* Sobre mí: dos columnas ordenadas en escritorio */
+#sobre-mi {
+  padding: clamp(4rem, 7vw, 7rem) clamp(1.25rem, 5vw, 4rem);
+}
+
+.sobre-inner {
+  width: 100%;
+  grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+  gap: clamp(2rem, 5vw, 5rem);
+}
+
+.sobre-foto-col {
+  width: 100%;
+  min-width: 0;
+}
+
+.sobre-foto-frame {
+  width: min(100%, 400px);
+}
+
+.sobre-foto-frame img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center 35%;
+}
+
+.sobre-texto-col {
+  overflow-wrap: anywhere;
+}
+
+.credenciales {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+/* Contacto: tarjeta y botón de Google Forms */
+#contacto {
+  padding: clamp(3.5rem, 7vw, 6rem) clamp(1.25rem, 5vw, 4rem);
+}
+
+.contacto-content {
+  width: 100%;
+  max-width: 680px;
+}
+
+.contacto-form {
+  width: 100%;
+  max-width: 620px;
+  margin: 2.5rem auto 0;
+  padding: clamp(1.25rem, 4vw, 2.25rem);
+}
+
+.contacto-form .form-submit {
+  width: fit-content;
+  max-width: 100%;
+  min-height: 48px;
+  margin: 1rem auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.4;
+  padding: .95rem 1.75rem;
+  white-space: normal;
+}
+
+.contacto-extras {
+  gap: 1rem 2rem;
+}
+
+.contacto-extra-item {
+  line-height: 1.5;
+}
+
+/* Tarjetas de servicios y preguntas */
+.servicios-grid {
+  align-items: stretch;
+}
+
+.servicio-card,
+.servicio-body {
+  min-width: 0;
+}
+
+.servicio-includes li {
+  line-height: 1.55;
+}
+
+.faq-question {
+  line-height: 1.5;
+}
+
+.faq-answer {
+  overflow-wrap: anywhere;
+}
+
+/* Tablets */
+@media (max-width: 900px) {
+  nav {
+    padding: .9rem 1.5rem;
+  }
+
+  .hero {
+    min-height: auto;
+    grid-template-columns: minmax(0, 1fr);
+    padding: 8rem 2rem 4rem;
+    gap: 2.5rem;
+  }
+
+  .hero-visual {
+    order: 0;
+  }
+
+  .hero-text {
+    text-align: center;
+  }
+
+  .hero-eyebrow,
+  .hero-actions {
+    justify-content: center;
+  }
+
+  .hero-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .sobre-inner {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 3.5rem;
+  }
+
+  .sobre-foto-frame {
+    max-width: 330px;
+  }
+
+  .sobre-texto-col {
+    width: 100%;
+  }
+
+  .servicios-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Celulares */
+@media (max-width: 600px) {
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .75rem 1rem;
+    flex-direction: column;
+    justify-content: center;
+    gap: .55rem;
+  }
+
+  .nav-logo {
+    font-size: 1.12rem;
+    line-height: 1.2;
+  }
+
+  .nav-links {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .45rem 1rem;
+  }
+
+  .nav-links a {
+    font-size: .66rem;
+    letter-spacing: .06em;
+    padding: .25rem 0;
+  }
+
+  .nav-cta {
+    padding: .4rem .8rem;
+  }
+
+  .hero {
+    padding: 9.5rem 1.25rem 3.5rem;
+    gap: 2rem;
+  }
+
+  .hero-title {
+    font-size: clamp(2.15rem, 10vw, 3rem);
+    line-height: 1.15;
+  }
+
+  .hero-subtitle {
+    font-size: .98rem;
+    line-height: 1.7;
+  }
+
+  .hero-card {
+    max-width: 100%;
+    padding: 2rem 1.5rem;
+  }
+
+  .hero-badge {
+    width: 72px;
+    height: 72px;
+    right: -.35rem;
+    top: -.75rem;
+  }
+
+  #sobre-mi,
+  #servicios,
+  #proceso,
+  #contacto {
+    padding: 3.75rem 1.25rem;
+  }
+
+  .sobre-inner {
+    gap: 2.75rem;
+  }
+
+  .sobre-foto-frame {
+    width: calc(100% - 1rem);
+    max-width: 290px;
+  }
+
+  .sobre-foto-frame::before {
+    top: -10px;
+    left: -10px;
+    right: 10px;
+    bottom: 10px;
+  }
+
+  .sobre-foto-frame::after {
+    top: 12px;
+    left: 12px;
+    right: -10px;
+    bottom: -12px;
+  }
+
+  .sobre-pill {
+    right: -.5rem;
+    bottom: -.85rem;
+    padding: .75rem 1rem;
+    font-size: .7rem;
+  }
+
+  .sobre-pill strong {
+    font-size: 1rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.8rem, 8vw, 2.35rem);
+  }
+
+  .section-desc {
+    font-size: .98rem;
+    line-height: 1.75;
+  }
+
+  .credenciales {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .servicios-header {
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+  }
+
+  .servicios-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+  }
+
+  .servicio-top {
+    padding: 1.5rem 1.25rem 0;
+  }
+
+  .servicio-body {
+    padding: 1.25rem 1.25rem 1.75rem;
+  }
+
+  .badge-descuento {
+    white-space: normal;
+    text-align: center;
+    line-height: 1.35;
+  }
+
+  .proceso-layout {
+    gap: 1.75rem;
+  }
+
+  .proceso-quote-card {
+    padding: 1.75rem;
+  }
+
+  .faq-question {
+    padding: 1rem;
+    font-size: .88rem;
+  }
+
+  .faq-answer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .contacto-form {
+    padding: 1.25rem;
+    border-radius: 1.25rem;
+  }
+
+  .contacto-form h3 {
+    font-size: 1.25rem;
+  }
+
+  .contacto-form .form-submit {
+    width: 100%;
+    padding: .95rem 1rem;
+    font-size: .78rem;
+    letter-spacing: .04em;
+  }
+
+  .contacto-extras {
+    flex-direction: column;
+    align-items: center;
+    gap: .85rem;
+  }
+
+  footer {
+    padding: 1.75rem 1.25rem;
+    align-items: center;
+    text-align: center;
+  }
+
+  footer p {
+    line-height: 1.6;
+  }
+}
+
+/* Teléfonos pequeños */
+@media (max-width: 380px) {
+  .nav-links {
+    gap: .35rem .7rem;
+  }
+
+  .nav-links a {
+    font-size: .61rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-actions a {
+    text-align: center;
+  }
+
+  .servicios-stats {
+    justify-content: space-between;
+    gap: .75rem;
+  }
+
+  .stat-num {
+    font-size: 2rem;
+  }
+}
+
+/* Accesibilidad: respeta la preferencia de movimiento reducido */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+
 </style>
 </head>
 <body>
@@ -1034,7 +1477,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <p>Un pequeño espacio solo para ti, para pausar, respirar y reconectar contigo a lo largo del mes.</p>
 <div class="servicio-divider"></div>
 <ul class="servicio-includes">
-<li>Duración:30 min<li>
+<li>Duración: 30 min</li>
 <li>Frecuencia: 2 veces al mes (1er y 3er miércoles de cada mes)</li>
 <li>Contenido educativo y expresivo, no sustituye la terapia individual</li>
 <li>Sesiones grupales (cupo limitado) </li>
