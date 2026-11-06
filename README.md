@@ -991,7 +991,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicios-stats">
 <div class="stat-item">
 <span class="stat-num">50%</span>
-<span class="stat-label">1ª y 2ª sesión</span>
+<span class="stat-label">1ª sesión</span>
 </div>
 <div class="stat-item">
 <span class="stat-num">2</span>
@@ -1007,8 +1007,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-card terapia">
 <div class="servicio-top">
 <div class="servicio-icon">🌿</div>
-<div class="badge-descuento">⭐50% en 
-  la 1era sesión</div>
+<div class="badge-descuento">⭐Presencial o En línea</div>
 </div>
 <div class="servicio-body">
 <h3>Terapia Psicológica</h3>
@@ -1016,7 +1015,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-divider"></div>
 <ul class="servicio-includes">
 <li>Sesión individual de 50 minutos</li>
-<li>Presencial o en línea</li>
+<li>$600 MXN</li>
 <li>Enfoque Gestalt Humanista para adultos</li>
 </ul>
 <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
