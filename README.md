@@ -984,7 +984,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicios-header">
 <div>
 <div class="section-label">Servicios</div>
-<h2 class="section-title">¿Sientes que esta es la forma de <em>acompañamiento</em> que necesitas hoy?</h2>
+<h2 class="section-title">¿Qué forma de <em>acompañamiento</em> sientes que necesitas hoy?</h2>
 
 </div>
 <div class="servicios-header-right">
@@ -1034,9 +1034,10 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <p>Un pequeño espacio solo para ti, para pausar, respirar y reconectar contigo a lo largo del mes.</p>
 <div class="servicio-divider"></div>
 <ul class="servicio-includes">
-<li>30 min solo para ti, 2 veces al mes (1er y 3er miércoles de cada mes)</li>
+<li>Duración:30 min<li>
+<li>Frecuencia: 2 veces al mes (1er y 3er miércoles de cada mes)</li>
 <li>Contenido educativo y expresivo, no sustituye la terapia individual</li>
-<li>Sesiones grupales</li>
+<li>Sesiones grupales (cupo limitado) </li>
 <li>Modalidad Online (Google Meet) de 7:00 pm a 7:30 pm</li>
 </ul>
 <a href="#contacto" class="btn-primary">Más información</a>
@@ -1100,7 +1101,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>El costo por sesión es de $500 (pesos mexicanos). Sin embargo, la primera y segunda sesión tienen un 50% de descuento debido a que se realizará una entrevista inicial y se aclararán cuestiones del tratamiento y la metodología. Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
+<p>El costo por sesión es de $600 (pesos mexicanos). Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
 </div>
 </div>
 
@@ -1150,7 +1151,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>Sí, se imparten talleres grupales íntimos, de 5 personas. Existen 3 enfoques: 1.Para personas que han sufrido una pérdida significativa; 2. Para personas que cuidan-prevención del burnout (mamá, papá, cuidadores de adulto mayor, enfermer@s, etc.) y 3.Para personas que buscan un momento para ellas mismas, salir de la rutina y descubrir algo nuevo. PREGUNTA POR PRECIOS, FECHAS Y DISPONIBILIDAD SI TE INTERESA ALGUN TEMA. </p>
+<p>Los mini talleres son en línea, duran 30 min y no tienen costo- Son perfectos para personas que por falta de tiempo o dinero no pueden asistir a terapia pero quieren un espacio seguro. Por otro lado, los talleres expresivos son presenciales y son para personas que se les dificulta expresar o comunicar sus emociones. </p>
 </div>
 </div>
 
