@@ -1544,7 +1544,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>El costo por sesión es de $600 (pesos mexicanos). Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti.</p>
+<p>El costo por sesión es de $600 (pesos mexicanos). Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti. El autocuidado no debería ser un lujo.</p>
 </div>
 </div>
 
@@ -1594,7 +1594,8 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>Los mini talleres son en línea, duran 30 min y no tienen costo- Son perfectos para personas que por falta de tiempo o dinero no pueden asistir a terapia pero quieren un espacio seguro. Por otro lado, los talleres expresivos son presenciales y son para personas que se les dificulta expresar o comunicar sus emociones. </p>
+<p>Los mini talleres son en línea, duran 30 min (Bajo costo)- Son perfectos para personas que por falta de tiempo o dinero no pueden asistir a terapia pero quieren un espacio seguro. 
+    Por otro lado, los talleres expresivos son presenciales y son para personas que se les dificulta expresar o comunicar sus emociones. </p>
 </div>
 </div>
 
