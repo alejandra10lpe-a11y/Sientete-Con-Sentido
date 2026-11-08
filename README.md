@@ -1480,8 +1480,7 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <li>Duración: 30 min</li>
 <li>Frecuencia: 2 veces al mes (1er y 3er miércoles de cada mes)</li>
 <li>Contenido educativo y expresivo, no sustituye la terapia individual</li>
-<li>Sesiones grupales (cupo limitado) </li>
-<li>Modalidad Online (Google Meet) de 7:00 pm a 7:30 pm</li>
+<li>Sesiones grupales o individual (cupo limitado) </li>
 </ul>
 <a href="#contacto" class="btn-primary">Más información</a>
 </div>
