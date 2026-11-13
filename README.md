@@ -1458,7 +1458,6 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <div class="servicio-divider"></div>
 <ul class="servicio-includes">
 <li>Sesión individual de 50 minutos</li>
-<li>$600 MXN</li>
 <li>Enfoque Gestalt Humanista para adultos</li>
 </ul>
 <a href="https://forms.gle/U5htUKLZUE494FbQ7" class="btn-primary">Agendar sesión</a>
@@ -1537,15 +1536,6 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 <!-- FAQ list -->
 <div class="faq-list">
 
-<div class="faq-item open">
-<button class="faq-question" onclick="toggleFaq(this)">
-¿Cuál es el costo de las sesiones terapeúticas?
-<span class="faq-icon">+</span>
-</button>
-<div class="faq-answer">
-<p>El costo por sesión es de $600 (pesos mexicanos). Si consideras que el costo no entra dentro de tu presupuesto, te puedo dar otras opciones que se ajusten a ti. El autocuidado no debería ser un lujo.</p>
-</div>
-</div>
 
 <div class="faq-item open">
 <button class="faq-question" onclick="toggleFaq(this)">
@@ -1564,16 +1554,6 @@ Encuentra un espacio donde puedas mirarte sin juicio y construir a tu ritmo una 
 </button>
 <div class="faq-answer">
 <p>Lo más importante es la honestidad: contigo mismo y con tu terapeuta. El consultorio es un espacio completamente seguro, sin juicios. Si no entiendes algo, pregunta siempre; es tu proceso y mereces claridad en cada momento.</p>
-</div>
-</div>
-
-<div class="faq-item">
-<button class="faq-question" onclick="toggleFaq(this)">
-¿Las sesiones son presenciales o en línea?
-<span class="faq-icon">+</span>
-</button>
-<div class="faq-answer">
-<p>La terapia individual está disponible tanto presencial como en línea, según lo que sea más cómodo para ti.</p>
 </div>
 </div>
 
